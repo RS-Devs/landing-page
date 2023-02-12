@@ -1,9 +1,6 @@
 # Mobile to the Moon Landing Page
 
-Bienvenido a este proyecto de Mobile to the Moon, una página de destino que brinda información sobre los dispositivos móviles más resistentes y confiables del mercado, con tecnología avanzada y materiales de alta calidad.
-
-En este proyecto se utilizaron HTML, CSS y JavaScript para la creación de una página web. Además, se incluyeron recursos externos como Bootstrap, animate.css, AOS (Animate On Scroll) y Tilt.js para proporcionar una mejor experiencia de usuario. La página web es responsiva y compatible con diferentes dispositivos.
-
+Este proyecto es una landing page creada desde cero para una empresa llamada Mobile to the Moon. Se ha utilizado HTML, CSS y JavaScript para desarrollar la página web. Además, se han incluido librerías externas como bootstrap, animate.css y AOS para mejorar la apariencia y la experiencia del usuario. La página incluye secciones como Inicio, Sobre Nosotros, Precios, Newsletter y Contacto, y cuenta con una animación de cohetes y un formulario de suscripción con validación. La landing page está diseñada para ofrecer una experiencia atractiva y fácil de usar a los visitantes y para promocionar los dispositivos móviles de alta calidad de la empresa.
 
 
 # Características
